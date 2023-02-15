@@ -6,6 +6,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+- 
 ### Screenshot
 
 ![](./images/Screenshot%20QR%20Card.png)
